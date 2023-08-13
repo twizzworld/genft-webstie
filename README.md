@@ -1,2 +1,0 @@
-# genft
-Created with CodeSandbox
