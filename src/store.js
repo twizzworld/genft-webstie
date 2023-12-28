@@ -9,10 +9,10 @@ const state = {
     {
       offset: 1,
       factor: 1.75,
-      header: "nft marketplace",
+      header: "random generated nfts",
       image: "/photo-1515036551567-bf1198cccc35.jpeg",
       aspect: 1.51,
-      text: "An NFT marketplace dedicated to AI generated images and art that also supports fractional ownership"
+      text: "A gamified NFT experience. Buy a random AI-generated NFT. "
     },
     {
       offset: 2,
@@ -20,16 +20,16 @@ const state = {
       header: "Generate NFTs",
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
-      text: "Easily generate NFTs from prompts using our NFT generation feature, ENGINE, then mint and sell them on the marketplace."
+      text: "Easily generate NFTs from prompts using our NFT generation feature, INGEN, then mint and own or sell them on the marketplace."
     },
     {
       offset: 3,
       factor: 2.25,
-      header: "fractional ownership",
+      header: "prediction markets",
       image: "/ph1.jpg",
       aspect: 1.5037,
       text:
-        "Making NFT ownership accessible to all. Utilizing our AI portfolio manager, users can also create NFT trading bots, creating the world's first fractional treding NFT market. "
+        "Make predictions on dropped NFTs. Accuracy correlates with a proportion of the NFT's ownership and other rewards. Drops occur daily, weekly, monthly, and yearly. "
     },
     {
       offset: 4,
@@ -37,15 +37,15 @@ const state = {
       header: "on-chain nft storage",
       image: "/ph3.jpg",
       aspect: 0.665,
-      text: "Thanks to leveraging SKALE's filestorage feature, NFTs (up to 100MB) can be stored on-chain"
+      text: "Thanks to leveraging SKALE's filestorage package, all NFTs are be stored on-chain"
     },
     {
       offset: 5,
       factor: 1.75,
-      header: "zero gas fees",
+      header: "low fees",
       image: "/photo-1533577116850-9cc66cad8a9b.jpeg",
       aspect: 1.55,
-      text: "Thanks again to building the project on the SKALE Ethereum layer2."
+      text: "Users only pay a monthly fee to use GENFT's prediction markets and generate custom NFTs. There are *light* fees to participate in GENFT lotteries and non-GENFT random NFT drops."
     },
     {
       offset: 7,
