@@ -20,7 +20,7 @@ const state = {
       header: "Generate NFTs",
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
-      text: "Easily generate NFTs from prompts using our NFT generation feature, INGEN, then mint and own or sell them on the marketplace."
+      text: "Easily generate NFTs from prompts using our on-chain NFT generation GENFT ENGINE, then mint and own or sell them on the marketplace."
     },
     {
       offset: 3,
