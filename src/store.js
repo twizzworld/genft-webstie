@@ -9,7 +9,7 @@ const state = {
     {
       offset: 1,
       factor: 1.75,
-      header: "randoly generated nfts",
+      header: "randomly generated nfts",
       image: "/photo-1515036551567-bf1198cccc35.jpeg",
       aspect: 1.51,
       text: "A gamified NFT experience. Buy a random AI-generated NFT. "
