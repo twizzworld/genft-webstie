@@ -80,7 +80,7 @@ function Content() {
       ))}
       <Block factor={1.25} offset={8}>
         <Html style={{ color: "white" }} className="bottom-left" position={[-canvasWidth / 2, -canvasHeight / 2, 0]}>
-          Generate the future. <a href="mailto:genft.lab@proton.me" style={{ color: "white" }}>Contact</a>.
+          Generate the future. genft.lab@proton.me.
         </Html>
       </Block>
     </>
